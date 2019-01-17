@@ -2,6 +2,12 @@
 - Name:   Hank Zhang
 - Email:  hankyzhang@gmail.com
 
+## Technologies Used
+- NodeJS
+- Express
+- Mongoose
+- MongoDB
+
 ## Demo Steps
 1. Clone the repository
 1. Install dependencies using the command "npm install"
