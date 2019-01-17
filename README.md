@@ -17,3 +17,6 @@ NodeJS, Express, Mongoose, MongoDB
 1. Start the service using the command "npm start"
 
 For more information, please visit the Wiki page
+
+## API Reference
+- **[API Reference](https://github.com/HankyZ/marketplace/wiki/API-reference)**
