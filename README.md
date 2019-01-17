@@ -1,6 +1,6 @@
 ## General Information
-- Name:   Hank Zhang
-- Email:  hankyzhang@gmail.com
+- Name: Hank Zhang
+- Email: hankyzhang@gmail.com
 
 ## Technologies Used
 NodeJS, Express, Mongoose, MongoDB
