@@ -29,14 +29,14 @@ exports.purchase = (req, res) => {
         if (err)
             res.send(err);
         if (products.length == 0)
-            res.send("No product was found with title = " + req.params.title);
+            res.send('No product was found with title = ' + req.params.title);
         else if (products[0].inventory_count <= 0)
-            res.send("No available inventory for the product with title = " + req.params.title);
+            res.send('No available inventory for the product with title = ' + req.params.title);
         else {
             Product.updateOne(query, { $inc: { inventory_count: -1 } }, (err) => {
                 if (err)
                     res.send(err);
-                res.send("Purchase succesful");
+                res.send('Purchase successful');
             });
         }
     })
