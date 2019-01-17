@@ -16,8 +16,8 @@ http://localhost:8080/fetch/title/phone
 available_only: optional
 
 #### Sample Requests
-http://localhost:8080/fetch_all
-http://localhost:8080/fetch_all/true
+- http://localhost:8080/fetch_all
+- http://localhost:8080/fetch_all/true
 
 ### Purchase Product
 Reduce the product inventory by 1. Products with no inventory return a message.
