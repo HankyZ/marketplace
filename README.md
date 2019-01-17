@@ -2,6 +2,10 @@
 - Name: Hank Zhang
 - Email: hankyzhang@gmail.com
 
+This challenge was completed with the help of the following tutorials:
+- https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+- https://medium.freecodecamp.org/building-a-simple-node-js-api-in-under-30-minutes-a07ea9e390d2
+
 ## Technologies Used
 NodeJS, Express, Mongoose, MongoDB
 
