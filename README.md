@@ -19,4 +19,4 @@ NodeJS, Express, Mongoose, MongoDB
 For more information, please visit the Wiki page
 
 ## API Reference
-- **[API Reference](https://github.com/HankyZ/marketplace/wiki/API-reference)**
+- **[Visit Wiki](https://github.com/HankyZ/marketplace/wiki)**
