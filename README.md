@@ -8,7 +8,7 @@
 title: required
 
 #### Sample Request
-http://localhost:8080/fetch/title/phone
+- http://localhost:8080/fetch/title/phone
 
 ### Get All Product Details
 
@@ -27,7 +27,7 @@ title: required
 
 #### Sample Request
 
-http://localhost:8080/purchase/title/phone
+- http://localhost:8080/purchase/title/phone
 
 #### Expected Responses
 1. "No product was found with title phone": if phone is not a product in the database
