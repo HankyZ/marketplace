@@ -3,10 +3,7 @@
 - Email:  hankyzhang@gmail.com
 
 ## Technologies Used
-- NodeJS
-- Express
-- Mongoose
-- MongoDB
+NodeJS, Express, Mongoose, MongoDB
 
 ## Demo Steps
 1. Clone the repository
